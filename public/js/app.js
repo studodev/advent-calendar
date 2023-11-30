@@ -9,8 +9,8 @@ calendarContainer.addEventListener('click', e => {
     const name = target.dataset.name;
     const day = target.dataset.day;
 
-    const today = new Date();
-    const dayDate = new Date(today.getFullYear(), 12, parseInt(day));
+    const today = new Date(2023, 11, 20);
+    const dayDate = new Date(today.getFullYear(), 11, parseInt(day));
     if (today < dayDate) {
         alert("C'est trop tôt !");
         return;

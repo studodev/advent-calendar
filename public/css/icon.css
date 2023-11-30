@@ -1,0 +1,42 @@
+@font-face {
+  font-family: 'icon';
+  src:
+    url('../fonts/iconset.ttf?gd1z9t') format('truetype'),
+    url('../fonts/iconset.woff?gd1z9t') format('woff'),
+    url('../fonts/iconset.svg?gd1z9t#iconset') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+.icon {
+  font-family: 'icon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-board_game:before {
+  content: "\e900";
+}
+.icon-book:before {
+  content: "\e901";
+}
+.icon-movie:before {
+  content: "\e902";
+}
+.icon-other:before {
+  content: "\e903";
+}
+.icon-podcast:before {
+  content: "\e904";
+}
+.icon-video_game:before {
+  content: "\e905";
+}

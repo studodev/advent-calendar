@@ -5,10 +5,19 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Calendrier de l'Avent découverte</title>
 
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?&family=Space+Mono&family=Comfortaa:wght@600&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="css/icon.css">
         <link rel="stylesheet" href="css/style.css">
         <script src="js/app.js" defer></script>
     </head>
     <body>
+        <header>
+            <img src="images/logo.png" alt="Logo de studo.dev">
+            <span>vous accompagne avant Noël ...</span>
+        </header>
+
         <div id="calendar">
             <?php foreach ($items as $key => $item) { ?>
                 <?php $opened = $item->getDrawDate() !== null; ?>
@@ -19,10 +28,11 @@
                 >
                     <div class="case-content">
                         <div class="case-content__back">
+                            <i class="icon icon-<?php echo $item->getType()->value; ?>"></i>
                             <?php echo $item->getName(); ?>
                         </div>
                         <div class="case-content__front">
-                            <?php echo $key; ?>
+                            <span><?php echo $key; ?></span>
                         </div>
                     </div>
                 </div>
