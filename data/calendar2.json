@@ -1,0 +1,196 @@
+{
+    "items": [
+        {
+            "type": "video_game",
+            "name": "Shutter",
+            "link": "https://store.steampowered.com/app/2314110/Shutter/",
+            "ratherWeekend": false,
+            "drawDate": null,
+            "done": false
+        },
+        {
+            "type": "video_game",
+            "name": "How to Say Good Bye",
+            "link": "https://store.steampowered.com/app/1709700/How_to_Say_Goodbye/",
+            "ratherWeekend": true,
+            "drawDate": null,
+            "done": false
+        },
+        {
+            "type": "video_game",
+            "name": "Orwell",
+            "link": "https://store.steampowered.com/app/491950/Orwell_Keeping_an_Eye_On_You/",
+            "ratherWeekend": true,
+            "drawDate": null,
+            "done": false
+        },
+        {
+            "type": "video_game",
+            "name": "Garden Story",
+            "link": null,
+            "ratherWeekend": false,
+            "drawDate": null,
+            "done": false
+        },
+        {
+            "type": "video_game",
+            "name": "Figment",
+            "link": null,
+            "ratherWeekend": true,
+            "drawDate": null,
+            "done": false
+        },
+        {
+            "type": "video_game",
+            "name": "Road 96",
+            "link": null,
+            "ratherWeekend": true,
+            "drawDate": null,
+            "done": false
+        },
+        {
+            "type": "video_game",
+            "name": "Lapin",
+            "link": null,
+            "ratherWeekend": true,
+            "drawDate": null,
+            "done": false
+        },
+        {
+            "type": "video_game",
+            "name": "Spiritfarer",
+            "link": null,
+            "ratherWeekend": false,
+            "drawDate": null,
+            "done": false
+        },
+        {
+            "type": "movie",
+            "name": "À la recherche du Hobbit",
+            "link": null,
+            "ratherWeekend": false,
+            "drawDate": null,
+            "done": false
+        },
+        {
+            "type": "movie",
+            "name": "Encanto",
+            "link": null,
+            "ratherWeekend": false,
+            "drawDate": null,
+            "done": false
+        },
+        {
+            "type": "movie",
+            "name": "Hilda et le roi de la montagne",
+            "link": null,
+            "ratherWeekend": false,
+            "drawDate": null,
+            "done": false
+        },
+        {
+            "type": "book",
+            "name": "Le cerveau expliqué à mon petit-fils",
+            "link": null,
+            "ratherWeekend": false,
+            "drawDate": null,
+            "done": false
+        },
+        {
+            "type": "book",
+            "name": "Vénère",
+            "link": null,
+            "ratherWeekend": false,
+            "drawDate": null,
+            "done": false
+        },
+        {
+            "type": "book",
+            "name": "L'amour sous algorithme",
+            "link": null,
+            "ratherWeekend": false,
+            "drawDate": null,
+            "done": false
+        },
+        {
+            "type": "book",
+            "name": "Zelda : 35 ans de légende",
+            "link": null,
+            "ratherWeekend": false,
+            "drawDate": null,
+            "done": false
+        },
+        {
+            "type": "book",
+            "name": "Chats des rues",
+            "link": null,
+            "ratherWeekend": false,
+            "drawDate": null,
+            "done": false
+        },
+        {
+            "type": "book",
+            "name": "Dounia, l'intégrale",
+            "link": null,
+            "ratherWeekend": false,
+            "drawDate": null,
+            "done": false
+        },
+        {
+            "type": "book",
+            "name": "Entre neige et loup",
+            "link": null,
+            "ratherWeekend": false,
+            "drawDate": null,
+            "done": false
+        },
+        {
+            "type": "book",
+            "name": "D'ambre et de feu",
+            "link": null,
+            "ratherWeekend": false,
+            "drawDate": null,
+            "done": false
+        },
+        {
+            "type": "book",
+            "name": "Au-delà de l'horizon",
+            "link": null,
+            "ratherWeekend": false,
+            "drawDate": null,
+            "done": false
+        },
+        {
+            "type": "book",
+            "name": "Les coquelicots de Claude Monet",
+            "link": null,
+            "ratherWeekend": false,
+            "drawDate": null,
+            "done": false
+        },
+        {
+            "type": "book",
+            "name": "La fille du canal",
+            "link": null,
+            "ratherWeekend": false,
+            "drawDate": null,
+            "done": false
+        },
+        {
+            "type": "video_game",
+            "name": "Inua",
+            "link": null,
+            "ratherWeekend": false,
+            "drawDate": null,
+            "done": false
+        },
+        {
+            "type": "video_game",
+            "name": "South of the circle",
+            "link": null,
+            "ratherWeekend": false,
+            "drawDate": null,
+            "done": false
+        }
+    ]
+}
